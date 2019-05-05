@@ -1,5 +1,7 @@
 # Monitoring Agent 1.0.3
 
+This project is no longer supported. I have shifted all efforts to the new Monitoring server written in Python. Thanks to everyone who took the time to check out this project.
+
 This is a VB.Net Windows Service WMI Monitoring Agent
 
 This is a basic Windows monitoring agent that collects system, processor, memory, disk, and service data, and sends the data to a central server. It works in conjuntion with the Monitoring Server application.
